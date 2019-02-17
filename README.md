@@ -7,7 +7,7 @@ Download:
 
 ```bash
 git clone https://github.com/jgpalfrey/soptions.git
-cd PROJECT NAME
+cd soptions
 ```
 
 Install it and run:
